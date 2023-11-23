@@ -15,7 +15,7 @@ npm install -g expo-cli
 
 2. Clonez le projet à partir de Gitab en utilisant par exemple la commande suivante : 
 ```
-git clone https://forge.iut-larochelle.fr/rkawka/rappel-anniversaires.git
+git clone https://github.com/rkaawkaa/Rappel-anniversaires
 ```
 
 3. Accédez au répertoire du projet puis lancer la commande suivante pour installer les dépendances :
